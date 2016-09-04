@@ -5,4 +5,5 @@ package com.sailiy.base;
  */
 public class Constants {
     public static String updata_url="";
+    public static String net_host="";
 }
